@@ -1,0 +1,532 @@
+Added Component: Designator=C1(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Capacitor Case"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2189124.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2189124.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R71C104KA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0145, 100=0.0126, 500=0.0081, 2500=0.0059, 5000=0.0052, 10000=0.0046, 50000=0.0036, 100000=0.0035 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "GRM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "18297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2688519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (20-Jun-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Capacitor Case"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2189124.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2189124.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "X7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM188R71C104KA01J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0145, 100=0.0126, 500=0.0081, 2500=0.0059, 5000=0.0052, 10000=0.0046, 50000=0.0036, 100000=0.0035 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "GRM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "18297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2688519"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (20-Jun-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Capacitor Case"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2048077.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2048077.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "C0G / NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1885C1H200JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0245, 100=0.0159, 500=0.0123, 1000=0.0095, 2000=0.0093, 4000=0.0073, 20000=0.0062, 40000=0.0057 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "GRM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2456108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Capacitor Case"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2048077.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2048077.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Characteristic"; Value = "C0G / NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MURATA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1885C1H200JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0245, 100=0.0159, 500=0.0123, 1000=0.0095, 2000=0.0093, 4000=0.0073, 20000=0.0062, 40000=0.0057 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "GRM Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2456108"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR2X20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(EThernet conn)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Body Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector Telephone and Telecom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/26929/getdatasheetpartid-767379-26929525.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/26929/getdatasheetpartid-767379-26929525.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/19472/2040276-19472615.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/19472/2040276-19472615.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/30213/71510446200001-modular-jacks-plug-30213975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/30213/71510446200001-modular-jacks-plug-30213975.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/4562/0446200001-modular-jacks-plug-145952-4562632.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/4562/0446200001-modular-jacks-plug-145952-4562632.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/16074/832720446200001-modular-jacks-plug-16074650.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/16074/832720446200001-modular-jacks-plug-16074650.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/1107/66995-1107778.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/1107/66995-1107778.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/9393/0446200001-modular-jacks-plug-9393019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/9393/0446200001-modular-jacks-plug-9393019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/16649/0446200001-modular-jacks-plug-16649582.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/16649/0446200001-modular-jacks-plug-16649582.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "RCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "44620-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.04 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.689, 50=0.675, 100=0.67, 250=0.669, 500=0.668, 1000=0.667 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2782009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Method"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "RJ-45"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCMR06X104 JTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0109, 100=0.0085, 500=0.006, 1000=0.0048, 2500=0.004, 5000=0.003, 25000=0.002, 50000=0.0016 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "MCMR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Multicomp MCMR series resistors are automotive grade, anti sulphured thick film chip resistor. The resistance range includes E24 and E96 decade values from 1ohm to 10Mohm. These resistors are constructed on top of a high grade ceramic body.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">EIA 0402, 0603, 0805, 1206 chip sizes available</li><li class="features-and-benefits-list-item">High reliability and stability</li><li class="features-and-benefits-list-item">Automotive grade AEC-Q200 compliant</li><li class="features-and-benefits-list-item">Complaint with (IEC 60068-1) 55/155/56 climatic category</li><li class="features-and-benefits-list-item">Maximum operation voltage of 50V, 75V, 150V and 200V</li><li class="features-and-benefits-list-item">Power rating of 62.5mW, 100mW, 125mW and 250mW</li><li class="features-and-benefits-list-item">Available in ±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">Temperature coefficient (TCR) of +200ppm/°C, +100ppm/°C and -200ppm/°C to +400ppm/°C</li><li class="features-and-benefits-list-item">Operating temperature range -55°C to 155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2073357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCMR06X104 JTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0109, 100=0.0085, 500=0.006, 1000=0.0048, 2500=0.004, 5000=0.003, 25000=0.002, 50000=0.0016 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "MCMR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Multicomp MCMR series resistors are automotive grade, anti sulphured thick film chip resistor. The resistance range includes E24 and E96 decade values from 1ohm to 10Mohm. These resistors are constructed on top of a high grade ceramic body.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">EIA 0402, 0603, 0805, 1206 chip sizes available</li><li class="features-and-benefits-list-item">High reliability and stability</li><li class="features-and-benefits-list-item">Automotive grade AEC-Q200 compliant</li><li class="features-and-benefits-list-item">Complaint with (IEC 60068-1) 55/155/56 climatic category</li><li class="features-and-benefits-list-item">Maximum operation voltage of 50V, 75V, 150V and 200V</li><li class="features-and-benefits-list-item">Power rating of 62.5mW, 100mW, 125mW and 250mW</li><li class="features-and-benefits-list-item">Available in ±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">Temperature coefficient (TCR) of +200ppm/°C, +100ppm/°C and -200ppm/°C to +400ppm/°C</li><li class="features-and-benefits-list-item">Operating temperature range -55°C to 155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2073357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1716707.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MULTICOMP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCMR06X104 JTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0109, 100=0.0085, 500=0.006, 1000=0.0048, 2500=0.004, 5000=0.003, 25000=0.002, 50000=0.0016 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "MCMR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Multicomp MCMR series resistors are automotive grade, anti sulphured thick film chip resistor. The resistance range includes E24 and E96 decade values from 1ohm to 10Mohm. These resistors are constructed on top of a high grade ceramic body.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">EIA 0402, 0603, 0805, 1206 chip sizes available</li><li class="features-and-benefits-list-item">High reliability and stability</li><li class="features-and-benefits-list-item">Automotive grade AEC-Q200 compliant</li><li class="features-and-benefits-list-item">Complaint with (IEC 60068-1) 55/155/56 climatic category</li><li class="features-and-benefits-list-item">Maximum operation voltage of 50V, 75V, 150V and 200V</li><li class="features-and-benefits-list-item">Power rating of 62.5mW, 100mW, 125mW and 250mW</li><li class="features-and-benefits-list-item">Available in ±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">Temperature coefficient (TCR) of +200ppm/°C, +100ppm/°C and -200ppm/°C to +400ppm/°C</li><li class="features-and-benefits-list-item">Operating temperature range -55°C to 155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Y-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "187"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2073357"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR0603-J/-000ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0146, 250=0.0097, 1000=0.0073, 5000=0.0049, 12500=0.0042 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "CR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Bourns CR series are standard thick film chip resistors. These resistors provide flexibility of performance, space saving and low cost. The Resistance range includes E96 and E24 decade values from 1ohm to 10Mohm.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">0201, 0402, 0603, 0805, 1206, 1210, 2010, 2512 standard case sizes available</li><li class="features-and-benefits-list-item">±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">±100ppm/°C, ±200ppm/°C and ±250ppm/°C TCR values available</li><li class="features-and-benefits-list-item">Power rating selectable for 50mW, 63mW, 0.1W, 0.125W, 0.25W, 0.5W and 1W based on ordering</li><li class="features-and-benefits-list-item">Jumpers are available for all size</li><li class="features-and-benefits-list-item">3 layer termination process with nickel barrier prevents leaching & provides excellent solderability</li><li class="features-and-benefits-list-item">Suitable for all type of soldering processes</li><li class="features-and-benefits-list-item">Tight dimensional tolerances</li><li class="features-and-benefits-list-item">Maximum working voltage depends on case size</li><li class="features-and-benefits-list-item">Operating temperature of -55°C to +125°C(CR0201) and -55°C to +155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "58200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2008343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2111201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2111201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RCA060310R0FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0803, 100=0.0386, 500=0.0235, 2500=0.015, 5000=0.0135, 10000=0.0108, 50000=0.0068, 100000=0.0067 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "RCA Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "9559"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2616585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The RCA series from Vishay are automotive grade, sulphur resistant thick film rectangular chip resistors. The resistance range includes E24 and E96 decade values from 1ohm to 10Mohm. They provide superior resistance against H2S atmosphere. These resistors have metal glaze on high quality ceramic.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">Automotive grade AEC-Q200 qualified (rev C)</li><li class="features-and-benefits-list-item">EIA 0402, 0603, 0805, 1206, 1210, 1218, 2010 and 2512 case sizes available</li><li class="features-and-benefits-list-item">Available in ±0.5%, ±1% and ±5% tolerances</li><li class="features-and-benefits-list-item">Jumpers are also available</li><li class="features-and-benefits-list-item">±50ppm/K, ±100ppm/K and ±200ppm/K TCR values</li><li class="features-and-benefits-list-item">Power rating of 0.063W, 0.10W, 0.125W, 0.25W, 0.5W, 0.75W and 1W at 70?C</li><li class="features-and-benefits-list-item">Available in 50V, 75V, 150V, 200V, 400V and 500V limiting voltage options</li><li class="features-and-benefits-list-item">Category temperature range from -55?C to 155?C</li><li class="features-and-benefits-list-item">Stability ?R/R = 1 % for 1000h at 70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "± 100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/5852/424479-5852064.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/5852/424479-5852064.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2578/crcwhpe3-2578529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2578/crcwhpe3-2578529.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/8975/crcwhpe3-8975275.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/8975/crcwhpe3-8975275.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7777/424479-7777277.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7777/424479-7777277.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/7777/424479-7777278.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/7777/424479-7777278.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.022inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW0603120RFKEAHP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.141, 100=0.0937, 500=0.0669, 1000=0.0453 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "120R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "34760"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1738892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.033inch"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR0603-J/-000ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0146, 250=0.0097, 1000=0.0073, 5000=0.0049, 12500=0.0042 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "CR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Bourns CR series are standard thick film chip resistors. These resistors provide flexibility of performance, space saving and low cost. The Resistance range includes E96 and E24 decade values from 1ohm to 10Mohm.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">0201, 0402, 0603, 0805, 1206, 1210, 2010, 2512 standard case sizes available</li><li class="features-and-benefits-list-item">±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">±100ppm/°C, ±200ppm/°C and ±250ppm/°C TCR values available</li><li class="features-and-benefits-list-item">Power rating selectable for 50mW, 63mW, 0.1W, 0.125W, 0.25W, 0.5W and 1W based on ordering</li><li class="features-and-benefits-list-item">Jumpers are available for all size</li><li class="features-and-benefits-list-item">3 layer termination process with nickel barrier prevents leaching & provides excellent solderability</li><li class="features-and-benefits-list-item">Suitable for all type of soldering processes</li><li class="features-and-benefits-list-item">Tight dimensional tolerances</li><li class="features-and-benefits-list-item">Maximum working voltage depends on case size</li><li class="features-and-benefits-list-item">Operating temperature of -55°C to +125°C(CR0201) and -55°C to +155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "58200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2008343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR0603-J/-000ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0146, 250=0.0097, 1000=0.0073, 5000=0.0049, 12500=0.0042 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "CR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Bourns CR series are standard thick film chip resistors. These resistors provide flexibility of performance, space saving and low cost. The Resistance range includes E96 and E24 decade values from 1ohm to 10Mohm.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">0201, 0402, 0603, 0805, 1206, 1210, 2010, 2512 standard case sizes available</li><li class="features-and-benefits-list-item">±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">±100ppm/°C, ±200ppm/°C and ±250ppm/°C TCR values available</li><li class="features-and-benefits-list-item">Power rating selectable for 50mW, 63mW, 0.1W, 0.125W, 0.25W, 0.5W and 1W based on ordering</li><li class="features-and-benefits-list-item">Jumpers are available for all size</li><li class="features-and-benefits-list-item">3 layer termination process with nickel barrier prevents leaching & provides excellent solderability</li><li class="features-and-benefits-list-item">Suitable for all type of soldering processes</li><li class="features-and-benefits-list-item">Tight dimensional tolerances</li><li class="features-and-benefits-list-item">Maximum working voltage depends on case size</li><li class="features-and-benefits-list-item">Operating temperature of -55°C to +125°C(CR0201) and -55°C to +155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "58200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2008343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bourns.com/engineering/CHPREZTR/cr0603.stp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2178762.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOURNS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CR0603-J/-000ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MSL"; Value = "MSL 1 - Unlimited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "10=0.0146, 250=0.0097, 1000=0.0073, 5000=0.0049, 12500=0.0042 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "CR Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "0603 [1608 Metric]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Element Material"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Mounting"; Value = "Surface Mount Device<!--FANDB--><div class="features-and-benefits-container"><div class="features-and-benefits-description"><span class="features-benefits-value">The Bourns CR series are standard thick film chip resistors. These resistors provide flexibility of performance, space saving and low cost. The Resistance range includes E96 and E24 decade values from 1ohm to 10Mohm.</span></div><div class="features-and-benefits-list"><ul class="features-and-benefits-list-list"><li class="features-and-benefits-list-item">0201, 0402, 0603, 0805, 1206, 1210, 2010, 2512 standard case sizes available</li><li class="features-and-benefits-list-item">±1% and ±5% tolerance</li><li class="features-and-benefits-list-item">±100ppm/°C, ±200ppm/°C and ±250ppm/°C TCR values available</li><li class="features-and-benefits-list-item">Power rating selectable for 50mW, 63mW, 0.1W, 0.125W, 0.25W, 0.5W and 1W based on ordering</li><li class="features-and-benefits-list-item">Jumpers are available for all size</li><li class="features-and-benefits-list-item">3 layer termination process with nickel barrier prevents leaching & provides excellent solderability</li><li class="features-and-benefits-list-item">Suitable for all type of soldering processes</li><li class="features-and-benefits-list-item">Tight dimensional tolerances</li><li class="features-and-benefits-list-item">Maximum working voltage depends on case size</li><li class="features-and-benefits-list-item">Operating temperature of -55°C to +125°C(CR0201) and -55°C to +155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "58200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2008343"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DC-DC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "ITE (Commercial)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Power Supplies - Board Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/8006/1790439-8006672.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/8006/1790439-8006672.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2374/oki-78sr-2374163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2374/oki-78sr-2374163.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/8220/oki-78sr-8220327.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/8220/oki-78sr-8220327.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/4646/oki-78sr-56393-4646361.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/4646/oki-78sr-56393-4646361.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/6917/1790439-6917306.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/6917/1790439-6917306.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/17327/oki-78sr-17327359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/17327/oki-78sr-17327359.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output (Max)"; Value = "1.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Efficiency"; Value = "90.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "DC DC Converters"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "SCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "OKI-78SR-5/1.5-W36-C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "3-SIP Module"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts) - Manufacture Series"; Value = "8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts) - Max"; Value = "8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Okami™ OKI-78SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.41" L x 0.30" W x 0.65" H (10.4mm x 7.6mm x 16.5mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2102101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Linear Regulator Replacement"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Max)"; Value = "36V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Input (Min)"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Isolation"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output 1"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output 2"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output 3"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C1-1
+Added Pin To Net: NetName=+3V3 Pin=P1-1
+Added Pin To Net: NetName=+3V3 Pin=P4-1
+Added Pin To Net: NetName=+3V3 Pin=P5-1
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-2
+Added Pin To Net: NetName=+3V3 Pin=R3-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=P1-2
+Added Pin To Net: NetName=+5V Pin=P1-4
+Added Pin To Net: NetName=+5V Pin=R9-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+12V Pin=P2-3
+Added Pin To Net: NetName=+12V Pin=P2-6
+Added Pin To Net: NetName=+12V Pin=P7-1
+Added Pin To Net: NetName=+12V Pin=U3-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=C\S\ Pin=P1-24
+Added Pin To Net: NetName=C\S\ Pin=R3-1
+Added Net: Name=C\S\
+Added Pin To Net: NetName=CAN_H Pin=P2-1
+Added Pin To Net: NetName=CAN_H Pin=R6-2
+Added Net: Name=CAN_H
+Added Pin To Net: NetName=CAN_L Pin=P2-2
+Added Pin To Net: NetName=CAN_L Pin=R6-1
+Added Net: Name=CAN_L
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=GND Pin=P1-25
+Added Pin To Net: NetName=GND Pin=P1-30
+Added Pin To Net: NetName=GND Pin=P1-34
+Added Pin To Net: NetName=GND Pin=P1-39
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=I\N\T\ Pin=P1-29
+Added Pin To Net: NetName=I\N\T\ Pin=R4-2
+Added Net: Name=I\N\T\
+Added Pin To Net: NetName=MISO Pin=P1-21
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P1-19
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R7-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=R8-2
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-1
+Added Pin To Net: NetName=NetR7_1 Pin=U3-3
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=OSC1 Pin=C3-2
+Added Net: Name=OSC1
+Added Pin To Net: NetName=OSC2 Pin=C4-2
+Added Net: Name=OSC2
+Added Pin To Net: NetName=R\S\T\ Pin=P1-31
+Added Pin To Net: NetName=R\S\T\ Pin=R2-1
+Added Net: Name=R\S\T\
+Added Net: Name=RX_CAN
+Added Pin To Net: NetName=RXD Pin=P1-10
+Added Pin To Net: NetName=RXD Pin=P5-3
+Added Net: Name=RXD
+Added Pin To Net: NetName=SCK Pin=P1-23
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=P1-5
+Added Pin To Net: NetName=SCL Pin=P4-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P4-2
+Added Net: Name=SDA
+Added Pin To Net: NetName=SOLAR1 Pin=P2-4
+Added Net: Name=SOLAR1
+Added Pin To Net: NetName=SOLAR2 Pin=P2-5
+Added Net: Name=SOLAR2
+Added Pin To Net: NetName=T\X\0\ Pin=R1-1
+Added Net: Name=T\X\0\
+Added Net: Name=TX_CAN
+Added Pin To Net: NetName=TXD Pin=P1-8
+Added Pin To Net: NetName=TXD Pin=P5-2
+Added Net: Name=TXD
+Added Class: Name=PAGE2 - RPI, CAN

@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Users\vojislav\OneDrive\IRNAS-Common\Electronics-Development\Agrelaeco\RPi-CAN-HAT\rpi-can-hat\Project Outputs for rpi-can-hat\Pick Place\Pick Place for rpi-can-hat.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/09/18
+Time:       12:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"P8","Header 2","TopLayer","HDR1X2","113.7300","77.7250","180","Header, 2-Pin"
+"R6","120R","TopLayer","RES0603","113.7500","82.2500","0","RES SMD 120 OHM 1% 1/4W 0603"
+"U2","MCP2551","TopLayer","SOIC127P600X175-8N","112.1250","89.9250","270","MICROCHIP         MCP2551-I/SN             CAN Bus, Transceiver, CAN, 1, 1, 4.5 V, 5.5 V, SOIC"
+"U1","MCP2515","TopLayer","SOIC127P1030X264-18N","126.6250","91.5500","360","MICROCHIP         MCP2515-I/SO             CAN Bus, Controller, SPI, 3, 2, 2.7 V, 5.5 V, SOIC"
+"X1","8MHz","TopLayer","DFN-Crystal","122.4854","81.9524","0","8MHz ±10ppm Crystal 10pF 200 Ohm -10°C ~ 60°C  Surface Mount 4-SMD, No Lead (DFN, LCC)"
+"U3","OKI-78SR-5","TopLayer","DC-DC","143.2750","83.6050","360","Non-Isolated DC/DC Converters 7.5W 24Vin 5Vout1 1.5A SIP Non-Iso"
+"R9","0R","TopLayer","RES0603","106.4500","96.9250","90","BOURNS - CR0603-J/-000ELF - RES, THICK FILM, 0R, 5%, 0.1W, 0603"
+"R8","0R","TopLayer","RES0603","140.7500","80.4750","0","BOURNS - CR0603-J/-000ELF - RES, THICK FILM, 0R, 5%, 0.1W, 0603"
+"R7","0R","TopLayer","RES0603","146.7750","80.6000","0","BOURNS - CR0603-J/-000ELF - RES, THICK FILM, 0R, 5%, 0.1W, 0603"
+"R5","10R","TopLayer","RES0603","116.2000","86.9000","90","VISHAY - RCA060310R0FKEA - RES, AUTO, THICK FILM, 10R, 1%, 0603"
+"R4","0R","TopLayer","RES0603","136.1250","88.2000","270","BOURNS - CR0603-J/-000ELF - RES, THICK FILM, 0R, 5%, 0.1W, 0603"
+"R3","100k","TopLayer","RES0603","136.2000","92.5750","90","MULTICOMP - MCMR06X104 JTL - RES, CERAMIC, 100K, 5%, 0.1W, 0603"
+"R2","100k","TopLayer","RES0603","136.2000","95.6250","270","MULTICOMP - MCMR06X104 JTL - RES, CERAMIC, 100K, 5%, 0.1W, 0603"
+"R1","100k","TopLayer","RES0603","112.2250","97.8750","180","MULTICOMP - MCMR06X104 JTL - RES, CERAMIC, 100K, 5%, 0.1W, 0603"
+"P7","Header 2","TopLayer","HDR1X2","134.5000","79.0700","270","Header, 2-Pin"
+"P6","Header 2","TopLayer","HDR1X2","140.9700","77.7250","180","Header, 2-Pin"
+"P5","JST-xH","TopLayer","JST-xH","154.7000","90.8750","270","4 Positions Header, Shrouded Connector 0.098" (2.50mm) Through Hole Tin"
+"P4","JST-xH","TopLayer","JST-xH","161.4000","90.8750","270","4 Positions Header, Shrouded Connector 0.098" (2.50mm) Through Hole Tin"
+"P3","Header 2","TopLayer","HDR1X2","146.4950","77.7250","180","Header, 2-Pin"
+"P2","RJ45","BottomLayer","EThernet_conn","110.4500","65.1400","180","MODULAR JACK"
+"C4","20pF","TopLayer","CAP0603","127.1000","81.9250","90","MURATA - GRM1885C1H200JA01D - CAPACITOR, MLCC, C0G, 20PF, 50V, 0603"
+"C3","20pF","TopLayer","CAP0603","122.4500","78.7000","180","MURATA - GRM1885C1H200JA01D - CAPACITOR, MLCC, C0G, 20PF, 50V, 0603"
+"C2","100nF","TopLayer","CAP0603","112.1500","95.1250","0","MURATA - GRM188R71C104KA01J - CAP, MLCC, X7R, 0.1UF, 16V, 0603"
+"C1","100nF","TopLayer","CAP0603","134.3750","97.4500","90","MURATA - GRM188R71C104KA01J - CAP, MLCC, X7R, 0.1UF, 16V, 0603"

@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: rpi-can-hat.PcbDoc   09/07/2018  5:30:12 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : rpi-can-hat.TXT
+EIA File   : rpi-can-hat.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T2      28mil (0.7mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             48        PTH        0.00inch (0.00mm)
+T5      39mil (1mm)                                               Round             3         PTH        0.00inch (0.00mm)
+T6      43mil (1.1mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T7      108mil (2.75mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T8      65mil (1.65mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+T9      131mil (3.33mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T10     135mil (3.43mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              86
+
+Total Processing Time (hh:mm:ss) : 00:00:00

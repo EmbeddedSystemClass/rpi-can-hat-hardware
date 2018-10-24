@@ -1,0 +1,39 @@
+Added Component: Designator=X1(DFN-Crystal)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Crystals and Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/855/abm3b-855873.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/855/abm3b-855873.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/855/abm3b-855874.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/855/abm3b-855874.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/855/abm3b-855875.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/855/abm3b-855875.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/16378/abm3b-16378027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/16378/abm3b-16378027.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/3175/abm3b-3175853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/3175/abm3b-3175853.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "200 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Crystals"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "8MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "±10ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.043" (1.10mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "10pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ABM3B-8.000MHZ-10-1-U-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Mode"; Value = "Fundamental"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-10°C ~ 60°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "4-SMD, No Lead (DFN, LCC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel (TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABM3B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.197" L x 0.126" W (5.00mm x 3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2467817RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MHz Crystal"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSC1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=OSC2 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Member To Class: ClassName=PAGE2 - RPI, CAN Member=Component X1 8MHz

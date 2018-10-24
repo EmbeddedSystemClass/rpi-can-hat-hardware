@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:03:30 PM On 09/17/2018
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [rpi-can-hat.PcbDoc]
+   Generated File[Pick Place for rpi-can-hat.txt]
+   Generated File[Pick Place for rpi-can-hat.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 12:03:33 PM On 09/17/2018

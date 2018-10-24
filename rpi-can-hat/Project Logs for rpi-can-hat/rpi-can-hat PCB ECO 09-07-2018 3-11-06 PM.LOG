@@ -1,0 +1,121 @@
+Added Component: Designator=U1(SOIC127P1030X264-18N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/14152/ea644222-e-14152533.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/14152/ea644222-e-14152533.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/15150/getdatasheetpartid-446809-15150054.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/15150/getdatasheetpartid-446809-15150054.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16205/filehandler-aspxddocname-en011733-16205222.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16205/filehandler-aspxddocname-en011733-16205222.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/18405/70045398-18405546.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/18405/70045398-18405546.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/1495/1669372-1495083.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/1495/1669372-1495083.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/1695/21801g-1695405.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/1695/21801g-1695405.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/29305/651448-da-01-en-ic-can-cont-mcp2515-i-so-soic-18-mcp-29305158.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/29305/651448-da-01-en-ic-can-cont-mcp2515-i-so-soic-18-mcp-29305158.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "1Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "40MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.31mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "SPI,CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP2515-I/SO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receive Buffers"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Transceivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Transmit Buffers"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.4, 10=1.29, 25=1.17, 100=1.06 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1292239"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "7.49mm"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/8084/jp011797-8084592.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/8084/jp011797-8084592.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/27056/2040583-27056423.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/27056/2040583-27056423.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1495/21667f-1495089.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1495/21667f-1495089.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/1700/21667f-1700023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/1700/21667f-1700023.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/14152/eb644223-644224-e-14152540.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/14152/eb644223-644224-e-14152540.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/17649/jp011797-17649039.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/17649/jp011797-17649039.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "1Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function"; Value = "Transceiver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCP2551-I/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "75mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "75mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receive Buffers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Receivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Transceivers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Transmit Buffers"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.79, 10=0.723, 25=0.656, 100=0.602 (GBP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "8.5V/µs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "28021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9758569"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.9mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX_CAN Pin=U1-1
+Added Pin To Net: NetName=RX_CAN Pin=U1-2
+Added Pin To Net: NetName=T\X\0\ Pin=U1-4
+Added Pin To Net: NetName=T\X\0\ Pin=U1-5
+Added Pin To Net: NetName=T\X\0\ Pin=U1-6
+Added Pin To Net: NetName=OSC2 Pin=U1-7
+Added Pin To Net: NetName=OSC1 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=NetR4_1 Pin=U1-12
+Added Pin To Net: NetName=SCK Pin=U1-13
+Added Pin To Net: NetName=MOSI Pin=U1-14
+Added Pin To Net: NetName=MISO Pin=U1-15
+Added Pin To Net: NetName=C\S\ Pin=U1-16
+Added Pin To Net: NetName=R\S\T\ Pin=U1-17
+Added Pin To Net: NetName=+3V3 Pin=U1-18
+Added Pin To Net: NetName=TX_CAN Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Pin To Net: NetName=RX_CAN Pin=U2-4
+Added Pin To Net: NetName=CAN_L Pin=U2-6
+Added Pin To Net: NetName=CAN_H Pin=U2-7
+Added Pin To Net: NetName=NetR5_2 Pin=U2-8
+Added Member To Class: ClassName=PAGE2 - RPI, CAN Member=Component U1 MCP2515
+Added Member To Class: ClassName=PAGE2 - RPI, CAN Member=Component U2 MCP2551
