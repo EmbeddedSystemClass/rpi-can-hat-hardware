@@ -1,7 +1,7 @@
 ![irnas_logo](https://github.com/IRNAS/pira-smart-hardware/blob/master/Pics/irnas_logo.png)
 # rpi-can-hat-hardware
 
-Raspberry Pi Zero HAT for CAN communication, designed as a Raspbbery Pi Zero HAT. Features CAN bus and CAN tranciver on board, as also system ethernet connection.
+Raspberry Pi Zero HAT for CAN communication, designed as a Raspbbery Pi Zero HAT. Features CAN bus and CAN tranciver on board, and also system ethernet connection.
 
 ![can-hat-PCB](https://github.com/IRNAS/rpi-can-hat-hardware/blob/master/rpi-can-hat/pictures/pcb_RPi-CAN.PNG)
 ![can-hat-3D](https://github.com/IRNAS/rpi-can-hat-hardware/blob/master/rpi-can-hat/pictures/RPi-can.PNG)
