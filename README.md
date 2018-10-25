@@ -6,7 +6,7 @@ Raspberry Pi Zero HAT for CAN communication, designed as a Raspbbery Pi Zero HAT
 ![can-hat-PCB](https://github.com/IRNAS/rpi-can-hat-hardware/blob/master/rpi-can-hat/pictures/pcb_RPi-CAN.PNG)
 ![can-hat-3D](https://github.com/IRNAS/rpi-can-hat-hardware/blob/master/rpi-can-hat/pictures/RPi-can.PNG)
 
-![block-diagram](https://github.com/IRNAS/rpi-can-hat-hardware/blob/master/rpi-can-hat/pictures/Block%20diagram.PNG)
+![block_diagram](https://github.com/IRNAS/rpi-can-hat-hardware/blob/master/rpi-can-hat/pictures/Block-diagram.PNG)
 
 #### License
 
